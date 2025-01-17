@@ -1,3 +1,5 @@
+![codewars](https://www.codewars.com/users/kayce.gitignore/badges/small)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshelll&layout=compact&hide=javascript,html,css&card_width=467&custom_title=My%20stack&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshelll&layout=compact&hide=javascript,html,css&card_width=467&custom_title=My%20stack&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
